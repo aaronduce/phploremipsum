@@ -1,1 +1,1 @@
-<h5>Developed by <a href="https://github.com/aaronduce">Aaron Duce</a> - <a href="about.php">About</a> - developed 2020 provided under the [license]</h5>
+    <h5>Developed by <a href="https://github.com/aaronduce">Aaron Duce</a> - <a href="about.php">About</a> - Copyright &copy; 2020 under the <a href="https://github.com/aaronduce/phploremipsum/blob/master/LICENSE">MIT license</a></h5>
