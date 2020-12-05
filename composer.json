@@ -1,0 +1,14 @@
+{
+    "name": "aaronduce/phploremipsum",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aaron Duce",
+            "email": "aaronduce@lymelite.co.uk"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.12",
+        "symfony/var-dumper": "^5.2"
+    }
+}
